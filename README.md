@@ -1,1 +1,1 @@
-# FiniteComputations-with-R
+# Finite Computations in Mechanics with R (Errata)
